@@ -10,4 +10,4 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
-[![seerrgiioo's GitHub stats](https://github-readme-stats.vercel.app/api?username=seerrgiioo)]
+[![GitHub Streak](https://streak-stats.demolab.com?user=seerrgiioo&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
